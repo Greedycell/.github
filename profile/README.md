@@ -1,4 +1,4 @@
-# 👋 Welcome to the Greedycell page!
+# 👋 Welcome to Greedycell!
 ---
 
 ## Active Projects
