@@ -8,4 +8,4 @@
 
 ---
 
-![Greedycell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greedycell&show_icons=true&theme=dark)
+![Greedycell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greedycell&include_orgs=true&show_icons=true&theme=dark)
