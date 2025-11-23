@@ -3,5 +3,5 @@
 
 ## Active Projects
 
-- [**AstralRoyale**](https://github.com/astralsc/AstralRoyale)  
+- [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   Our RetroRoyale fork with fixes & more implementations.
