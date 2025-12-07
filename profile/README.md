@@ -10,6 +10,3 @@
 
 - [**RetroRoyale Client**](https://github.com/Greedycell/RetroRoyaleClient)  
   A Node.js RetroRoyale Client.
-
-
-![Greedycell's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=greedycell&theme=dark)
