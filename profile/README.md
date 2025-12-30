@@ -10,3 +10,5 @@
 
 - [**RetroRoyale Client**](https://github.com/Greedycell/RetroRoyaleClient)  
   A Node.js RetroRoyale Client.
+- [**ClassicClash**](https://github.com/Greedycell/ClassicClash)  
+  A Python Clash of Clans server supporting multiple older versions 
