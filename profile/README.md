@@ -2,7 +2,7 @@
 ---
 
 ## Active Projects  
-- [**AstralRoyale (COMING SOON)**](https://github.com/Greedycell/AstralClash)  
+- [**AstralRoyale (COMING SOON)**](https://github.com/Greedycell/AstralRoyale)  
   A Python Clash Royale 2.1.8 Server written on Python
 - [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   Our RetroRoyale fork with fixes & more implementations.
