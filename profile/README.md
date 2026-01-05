@@ -1,14 +1,14 @@
 # 👋 Welcome to Greedycell!
 ---
 
-## Active Projects
-- [**AstralClash**](https://github.com/Greedycell/AstralClash)  
-  The first Node.js Clash of Clans server for 9.256.x.
-  
+## Active Projects  
+- [**AstralRoyale (COMING SOON)**](https://github.com/Greedycell/AstralClash)  
+  A Python Clash Royale 2.1.8 Server written on Python
 - [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   Our RetroRoyale fork with fixes & more implementations.
-
-- [**RetroRoyale Client**](https://github.com/Greedycell/RetroRoyaleClient)  
-  A Node.js RetroRoyale Client.
 - [**ClassicClash**](https://github.com/Greedycell/ClassicClash)  
-  A Python Clash of Clans server supporting multiple older versions 
+  A Python Clash of Clans server supporting multiple older versions
+- [**AstralBrawl**](https://github.com/Greedycell/AstralBrawl)  
+  A Brawl Stars V12 private server written on Python
+- [**AstralClash (COMING SOON)**](https://github.com/Greedycell/AstralClash)  
+  The first Node.js Clash of Clans server for 9.256.x.
