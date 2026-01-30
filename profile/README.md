@@ -3,7 +3,7 @@
 
 ## Active Projects  
 - [**AstralRoyale (COMING SOON)**](https://github.com/Greedycell/AstralRoyale)  
-  A Python Clash Royale 2.1.8 Server written on Python
+  A Node.js 2017 Clash Royale Server (v2.1.8)
 - [**AstralRoyale Legacy**](https://github.com/Greedycell/AstralRoyaleLegacy)  
   Our RetroRoyale fork with fixes & more implementations.
 - [**ClassicClash**](https://github.com/Greedycell/ClassicClash)  
